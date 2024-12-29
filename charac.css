@@ -49,7 +49,11 @@ main {
 h2 {
     font-size: 24px;
     margin: 10px 0;
-    color: antiquewhite;
+    color: #fda703;
+}
+
+p{
+    color:#e3c787;
 }
 
 @media (max-width: 768px) {
