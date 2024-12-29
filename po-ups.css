@@ -39,11 +39,11 @@ justify-content: center;
 
 
 .char{
-    width: 150px;
+    width: 190px;
     position: relative;
     color: #fff;
     cursor: pointer;
-    margin:10px;
+    margin:25px;
     
 }
 .char:hover{
@@ -143,9 +143,3 @@ justify-content: center;
     border: 2px solid var(--base);
 }
 
-@media (max-width: 768px) {
-    .char{
-        width: 190px;
-        margin: 25px;
-    }
-}
