@@ -145,7 +145,7 @@ justify-content: center;
 
 @media (max-width: 768px) {
     .char{
-        width: 175px;
-        margin: 35px;
+        width: 190px;
+        margin: 25px;
     }
 }
