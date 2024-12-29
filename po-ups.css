@@ -78,7 +78,8 @@ justify-content: center;
     text-transform: capitalize;
 }
 .search-form input{
-    width: 70%;
+    width: 50%;
+    font-size: 20px;
     padding: 15px;
     border-radius: 10px;
 }
@@ -87,12 +88,13 @@ justify-content: center;
 }
 .search-form button{
     padding: 15px;
-    font-size: 1.3rem;
+    font-size: 2.3rem;
 }
 
 .title-a{
     color: var(--base);
     margin: 10px 0px;
+    font-size:30px;
 }
 
 .top{
